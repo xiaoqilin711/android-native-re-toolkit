@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+.pytest_cache/
+*.so
+*.i64
+*.idb
+*.apk
+*.dex
+*.png
+*.log
